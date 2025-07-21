@@ -205,7 +205,7 @@ function App() {
       )}
       <div className="footer">
         <p>Created by Vivek</p>
-        <p>Source code: <a target="_blank" href="https://github.com/vivek1833/live-poll-battle">GitHub</a></p>
+        <p>Source code: <a target="_blank" href="https://github.com/vivek1833/Live-Battle-Poll">GitHub</a></p>
       </div>
     </div>
   );
